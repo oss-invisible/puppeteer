@@ -44,9 +44,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/feder-cr/invisible_puppeteer"
-Repository = "https://github.com/feder-cr/invisible_puppeteer"
-Changelog = "https://github.com/feder-cr/invisible_puppeteer/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/oss-invisible/puppeteer"
+Repository = "https://github.com/oss-invisible/puppeteer"
+Changelog = "https://github.com/oss-invisible/puppeteer/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = ["pytest>=7", "build>=1", "pytest-rerunfailures>=14", "pytest-timeout>=2", "pytest-xdist>=3"]
